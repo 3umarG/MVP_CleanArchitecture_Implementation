@@ -8,7 +8,7 @@ A universally agreed upon way to write and read code with others in a clear mann
   - MVVM : Model View ViewModel
 
 ## How MVP works ?
-By using a Presenter that get the Data from APIs , DataBase or other External resources and put them in the View as  ..
+By using a Presenter that get the Data from APIs , DataBase or other External resources and put them in the View as Mediator or like a Waiter on a restraunt .
 
 ## Model :
 ![Model View Presenter Model](https://support.touchgfx.com/4.14/img/basic-concepts/software-architecture-mvp/mvp.png)
